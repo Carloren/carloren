@@ -1,4 +1,4 @@
-## Hi there 👋 My name is Carloren. I'm a Full-Stack student in the [4Geeks Academy](https://duckduckgo.com](https://github.com/4GeeksAcademy)
+## Hi there 👋 My name is Carloren. I'm a Full-Stack student in the [4Geeks Academy](https://github.com/4GeeksAcademy)
 
 <!--
 **Carloren/carloren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
