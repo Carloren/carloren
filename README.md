@@ -7,6 +7,7 @@ So far, I've been practising these:
   <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" style="height:50px" alt="CSS3">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" style="height:50px" alt="Javascript">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" style="height:50px" alt="Bootstrap">
+  <img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" style="height:50px" alt="React">
 </p>
 
 ### You can also find me here!
