@@ -1,5 +1,5 @@
 ## Hello There! <img src="https://emojis.slackmojis.com/emojis/images/1643514347/3217/bluelightsaber.png?1643514347" style="height:20px"> My name is Carloren
-### Full-Stack developer junior by [4Geeks Academy](https://github.com/4GeeksAcademy)
+### 29 · Full-Stack developer junior by [4Geeks Academy](https://github.com/4GeeksAcademy) with experience in JavaScript, Python, React, SQL, Flask, and JWT
 
 So far, I've been practising these:
 <p>
