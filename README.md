@@ -6,7 +6,7 @@ So far, I've been working with these:
   <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" style="height:50px" alt="HTML5">
   <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" style="height:50px" alt="CSS3">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" style="height:50px" alt="Javascript">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" style="height:50px" alt="Bootstrap">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" style="height:50px" alt="Bootstrap">
   <img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" style="height:50px" alt="React">
 </p><p>
   <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" style="height:50px" alt="Python">
